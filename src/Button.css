@@ -1,0 +1,27 @@
+.button {
+  color: #333;
+  border-radius: 0.2rem;
+}
+.button__size-sm {
+  font-size: 0.75rem;
+  padding: 0.2rem;
+}
+
+.button__size-regular {
+  font-size: 1rem;
+  padding: 0.4rem;
+  margin: 0 0.5rem;
+}
+.button__size-xl {
+  font-size: 1.25rem;
+  padding: 0.6rem;
+}
+
+.button__color-primary {
+  background: rgb(19, 85, 53);
+  border-color: rgb(19, 85, 53);
+  color: white;
+}
+.button__color-secondary {
+  background: white;
+}
